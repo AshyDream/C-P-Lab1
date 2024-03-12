@@ -9,3 +9,4 @@
 /home/ashe/Documents/cross-platform/Lab1/PersonLibrary/obj/Debug/net8.0/refint/PersonLibrary.dll
 /home/ashe/Documents/cross-platform/Lab1/PersonLibrary/obj/Debug/net8.0/PersonLibrary.pdb
 /home/ashe/Documents/cross-platform/Lab1/PersonLibrary/obj/Debug/net8.0/ref/PersonLibrary.dll
+/home/ashe/Documents/cross-platform/Lab1/PersonLibrary/obj/Debug/net8.0/PersonLibrary.sourcelink.json

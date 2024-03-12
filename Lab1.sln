@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonLibrary", "PersonLibr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonLibrary.test", "PersonLibrary.test\PersonLibrary.test.csproj", "{FF439DB2-E3DB-45A2-875B-788FC2CE4589}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonShow", "PersonShow\PersonShow.csproj", "{8307011D-E966-4CDA-BD92-3593BF97FC93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{FF439DB2-E3DB-45A2-875B-788FC2CE4589}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF439DB2-E3DB-45A2-875B-788FC2CE4589}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF439DB2-E3DB-45A2-875B-788FC2CE4589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8307011D-E966-4CDA-BD92-3593BF97FC93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8307011D-E966-4CDA-BD92-3593BF97FC93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8307011D-E966-4CDA-BD92-3593BF97FC93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8307011D-E966-4CDA-BD92-3593BF97FC93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

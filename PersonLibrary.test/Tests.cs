@@ -4,9 +4,10 @@ namespace PersonLibrary.test;
 public class Tests
 {
     [Test]
-    public void TestBMI()
+    public void BMI_Test()
     {
-        var person = new Person {
+        var person = new Person(default, default, default, default, default, default, default, default)
+        {
             Weight = 70,
             Height = 1.75
         };

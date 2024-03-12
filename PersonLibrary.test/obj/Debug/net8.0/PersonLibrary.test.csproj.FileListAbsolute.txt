@@ -99,3 +99,4 @@
 /home/ashe/Documents/cross-platform/Lab1/PersonLibrary.test/obj/Debug/net8.0/PersonLibrary.test.pdb
 /home/ashe/Documents/cross-platform/Lab1/PersonLibrary.test/obj/Debug/net8.0/PersonLibrary.test.genruntimeconfig.cache
 /home/ashe/Documents/cross-platform/Lab1/PersonLibrary.test/obj/Debug/net8.0/ref/PersonLibrary.test.dll
+/home/ashe/Documents/cross-platform/Lab1/PersonLibrary.test/obj/Debug/net8.0/PersonLibrary.test.sourcelink.json
