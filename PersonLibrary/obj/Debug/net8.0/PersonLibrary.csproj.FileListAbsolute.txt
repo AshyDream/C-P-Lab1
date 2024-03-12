@@ -1,0 +1,11 @@
+/home/ashe/Documents/cross-platform/Lab1/PersonLibrary/bin/Debug/net8.0/PersonLibrary.deps.json
+/home/ashe/Documents/cross-platform/Lab1/PersonLibrary/bin/Debug/net8.0/PersonLibrary.dll
+/home/ashe/Documents/cross-platform/Lab1/PersonLibrary/bin/Debug/net8.0/PersonLibrary.pdb
+/home/ashe/Documents/cross-platform/Lab1/PersonLibrary/obj/Debug/net8.0/PersonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/ashe/Documents/cross-platform/Lab1/PersonLibrary/obj/Debug/net8.0/PersonLibrary.AssemblyInfoInputs.cache
+/home/ashe/Documents/cross-platform/Lab1/PersonLibrary/obj/Debug/net8.0/PersonLibrary.AssemblyInfo.cs
+/home/ashe/Documents/cross-platform/Lab1/PersonLibrary/obj/Debug/net8.0/PersonLibrary.csproj.CoreCompileInputs.cache
+/home/ashe/Documents/cross-platform/Lab1/PersonLibrary/obj/Debug/net8.0/PersonLibrary.dll
+/home/ashe/Documents/cross-platform/Lab1/PersonLibrary/obj/Debug/net8.0/refint/PersonLibrary.dll
+/home/ashe/Documents/cross-platform/Lab1/PersonLibrary/obj/Debug/net8.0/PersonLibrary.pdb
+/home/ashe/Documents/cross-platform/Lab1/PersonLibrary/obj/Debug/net8.0/ref/PersonLibrary.dll

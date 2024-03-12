@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rcpOx/ThmPlaXpTH8/frKeutcL6L8X/ngOvoI6kaFFLGy5lwflll70FusQMlgvViy+Zv0kJxE5Z/tRttC0iUiw==",
+  "success": true,
+  "projectFilePath": "/home/ashe/Documents/cross-platform/Lab1/PersonLibrary/PersonLibrary.csproj",
+  "expectedPackageFiles": [
+    "/home/ashe/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.2/microsoft.aspnetcore.app.ref.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
